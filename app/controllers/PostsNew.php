@@ -1,17 +1,15 @@
 <?php
 
-class PostsNew 
-{
-//    public function __construct () 
-//    {
-//        echo 'PostsNew::__construct';
-//    }
-    
+namespace app\controllers;
+
+class PostsNew extends \vendor\core\base\Controller
+{   
     public function indexAction() 
     {
         echo 'Posts::index';
     }
 
+    
     public function testAction () 
     {
         echo 'Posts::test';
@@ -28,5 +26,4 @@ class PostsNew
     {
         echo 'Posts::before';
     }
-
 }

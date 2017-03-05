@@ -3,7 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/OpenServer/domains/framework/index.php</file>
+            <file>file:/C:/OpenServer/domains/framework.ru/vendor/core/base/Controller.php</file>
+            <file>file:/C:/OpenServer/domains/framework.ru/app/controllers/Page.php</file>
+            <file>file:/C:/OpenServer/domains/framework.ru/app/controllers/PostsNew.php</file>
+            <file>file:/C:/OpenServer/domains/framework.ru/public/index.php</file>
+            <file>file:/C:/OpenServer/domains/framework.ru/app/views/Posts/test.php</file>
+            <file>file:/C:/OpenServer/domains/framework.ru/vendor/core/Router.php</file>
+            <file>file:/C:/OpenServer/domains/framework.ru/app/controllers/Posts.php</file>
+            <file>file:/C:/OpenServer/domains/framework.ru/app/views/Main/index.php</file>
+            <file>file:/C:/OpenServer/domains/framework.ru/.htaccess</file>
         </group>
     </open-files>
 </project-private>
